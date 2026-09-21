@@ -1,6 +1,8 @@
-# Deploy Good Feel → GitLab Pages (custom domain: goodfeel.info.vn)
-# Pages URL: https://<namespace>.gitlab.io/<project>/
-# Custom domain: Settings → Pages → New domain → goodfeel.info.vn
+# Deploy One More Step → GitLab Pages (custom domain: onemorestep.info.vn)
+# Project: https://gitlab.com/capdiensaigon/onemorestep
+# Custom domain: Deploy → Pages → Domains → onemorestep.info.vn
+# DNS apex: A → 35.185.44.232 (+ AAAA → 2600:1901:0:7b8a::) or ALIAS → capdiensaigon.gitlab.io
+# Verify TXT: _gitlab-pages-verification-code → gitlab-pages-verification-code=<code from Pages UI>
 
 stages:
   - build
@@ -16,16 +18,16 @@ cache:
   paths:
     - node_modules/
 
-build-goodfeel:
+build-onemorestep:
   stage: build
   image: node:${NODE_VERSION}
   script:
     - npm ci
-    - npm run build -- goodfeel
+    - npm run build -- onemorestep
   artifacts:
     expire_in: 1 hour
     paths:
-      - dist/goodfeel/
+      - dist/onemorestep/
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
     - if: $CI_PIPELINE_SOURCE == "web"
@@ -34,12 +36,12 @@ pages:
   stage: deploy
   image: alpine:latest
   needs:
-    - build-goodfeel
+    - build-onemorestep
   script:
     - mkdir -p public
-    - cp -a dist/goodfeel/. public/
+    - cp -a dist/onemorestep/. public/
     - touch public/.nojekyll
-    - echo "goodfeel.info.vn" > public/CNAME
+    - echo "onemorestep.info.vn" > public/CNAME
   artifacts:
     paths:
       - public
