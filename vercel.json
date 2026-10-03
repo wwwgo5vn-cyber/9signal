@@ -1,8 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
-  "buildCommand": "npm run build -- lovesomething",
-  "outputDirectory": "dist/lovesomething",
+  "buildCommand": "node scripts/run-site.mjs build thewayofspirit",
+  "outputDirectory": "dist/thewayofspirit",
   "installCommand": "npm install",
   "trailingSlash": true
 }
