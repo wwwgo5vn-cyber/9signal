@@ -1,8 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
-  "buildCommand": "npm run build -- 9signal",
-  "outputDirectory": "dist/9signal",
+  "buildCommand": "npm run build -- lovesomething",
+  "outputDirectory": "dist/lovesomething",
   "installCommand": "npm install",
   "trailingSlash": true
 }
