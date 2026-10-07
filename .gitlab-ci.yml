@@ -33,18 +33,14 @@ build-onemorestep:
     - if: $CI_PIPELINE_SOURCE == "web"
 
 pages:
-  stage: deploy
-  image: alpine:latest
-  needs:
-    - build-onemorestep
+  image: node:20
   script:
-    - mkdir -p public
-    - cp -a dist/onemorestep/. public/
-    - touch public/.nojekyll
-    - echo "onemorestep.info.vn" > public/CNAME
+    - npm ci
+    - node scripts/run-site.mjs build $SITE
+    - rm -rf public
+    - cp -r dist/$SITE public
   artifacts:
     paths:
       - public
   rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-    - if: $CI_PIPELINE_SOURCE == "web"
+    - if: $CI_COMMIT_BRANCH == "main"
