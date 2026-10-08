@@ -1,8 +1,5 @@
-# Deploy One More Step → GitLab Pages (custom domain: onemorestep.info.vn)
-# Project: https://gitlab.com/capdiensaigon/onemorestep
-# Custom domain: Deploy → Pages → Domains → onemorestep.info.vn
-# DNS apex: A → 35.185.44.232 (+ AAAA → 2600:1901:0:7b8a::) or ALIAS → capdiensaigon.gitlab.io
-# Verify TXT: _gitlab-pages-verification-code → gitlab-pages-verification-code=<code from Pages UI>
+# Mỗi project GitLab đặt biến SITE riêng (Settings > CI/CD > Variables)
+# goodfeel: SITE=goodfeel | onemorestep: SITE=onemorestep
 
 stages:
   - build
@@ -18,29 +15,34 @@ cache:
   paths:
     - node_modules/
 
-build-onemorestep:
+build-site:
   stage: build
   image: node:${NODE_VERSION}
   script:
+    - test -n "$SITE" || (echo "Chua dat bien SITE" && exit 1)
     - npm ci
-    - npm run build -- onemorestep
+    - npm run build -- $SITE
   artifacts:
     expire_in: 1 hour
     paths:
-      - dist/onemorestep/
+      - dist/$SITE/
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
     - if: $CI_PIPELINE_SOURCE == "web"
 
 pages:
-  image: node:20
+  stage: deploy
+  image: alpine:latest
+  needs:
+    - build-site
   script:
-    - npm ci
-    - node scripts/run-site.mjs build $SITE
-    - rm -rf public
-    - cp -r dist/$SITE public
+    - mkdir -p public
+    - cp -a dist/$SITE/. public/
+    - touch public/.nojekyll
+    - echo "$SITE.info.vn" > public/CNAME
   artifacts:
     paths:
       - public
   rules:
-    - if: $CI_COMMIT_BRANCH == "main"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_PIPELINE_SOURCE == "web"

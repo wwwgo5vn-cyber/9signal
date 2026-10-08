@@ -35,3 +35,6 @@ Thumbs.db
 firebase-debug.log
 firebase-debug.*.log
 *.cache
+
+# Vercel output (copy cua dist/$SITE)
+vercel-out/
