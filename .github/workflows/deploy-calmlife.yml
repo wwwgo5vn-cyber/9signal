@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.repository == 'wwwgo5vn-cyber/source-ve-tinh'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

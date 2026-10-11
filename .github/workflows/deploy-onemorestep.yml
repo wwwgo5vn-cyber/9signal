@@ -1,0 +1,58 @@
+# Deploy One More Step -> GitHub Pages (custom domain: onemorestep.info.vn)
+# Chi chay trong repo wwwgo5vn-cyber/onemorestep
+name: Deploy OneMoreStep
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-onemorestep
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: github.repository == 'wwwgo5vn-cyber/onemorestep'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Build OneMoreStep
+        run: npm run build -- onemorestep
+
+      - name: Prepare Pages artifact
+        run: |
+          echo "onemorestep.info.vn" > dist/onemorestep/CNAME
+          touch dist/onemorestep/.nojekyll
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/onemorestep
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
