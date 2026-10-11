@@ -1,5 +1,5 @@
-# Mỗi project GitLab đặt biến SITE riêng (Settings > CI/CD > Variables)
-# goodfeel: SITE=goodfeel | onemorestep: SITE=onemorestep
+# Tu lay ten project GitLab lam SITE (goodfeel -> goodfeel, onemorestep -> onemorestep)
+# Neu can site khac, dat bien SITE trong Settings > CI/CD > Variables (se ghi de)
 
 stages:
   - build
@@ -7,6 +7,7 @@ stages:
 
 variables:
   NODE_VERSION: "20"
+  SITE: $CI_PROJECT_NAME
 
 cache:
   key:
@@ -19,7 +20,7 @@ build-site:
   stage: build
   image: node:${NODE_VERSION}
   script:
-    - test -n "$SITE" || (echo "Chua dat bien SITE" && exit 1)
+    - echo "Build site $SITE"
     - npm ci
     - npm run build -- $SITE
   artifacts:
