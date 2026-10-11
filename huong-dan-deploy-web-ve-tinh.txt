@@ -1,0 +1,292 @@
+==========================================================================
+ HUONG DAN DEPLOY WEB VE TINH (tong hop den ngay 08/10/2026)
+ Source chung: D:\go5\source-ve-tinh
+ GitHub: wwwgo5vn-cyber/source-ve-tinh
+==========================================================================
+
+PHAN 0. KIEN THUC CHUNG (DOC TRUOC)
+--------------------------------------------------------------------------
+1) Tat ca web ve tinh nam chung 1 source Astro. Moi web co 1 "site id"
+   (vd: goodfeel, calmlife...). Danh sach id + domain nam trong:
+   src\config\sites.json   (defaultSite = befine)
+
+2) Build 1 web (mo CMD, khong phai PowerShell/bash):
+     cd /d D:\go5\source-ve-tinh
+     npm run build -- <siteId>
+   hoac:
+     node scripts/run-site.mjs build <siteId>
+   Ket qua nam o: dist\<siteId>
+   Log dung phai co dong:  [astro] site=<siteId>
+   => Khi deploy o bat ky dau, LUON kiem tra dong nay trong log build.
+      Neu thay site khac la dang build nham web.
+
+3) Bai viet cua moi web nam o: src\content\posts\<siteId>
+
+4) Cai git identity (moi repo/thu muc moi lam 1 lan, khong co la commit loi):
+     git config user.email "www.go5.vn@gmail.com"
+     git config user.name "wwwgo5vn-cyber"
+
+5) Quy trinh cap nhat noi dung chung:
+     cd /d D:\go5\source-ve-tinh
+     git add .
+     git commit -m "Update <siteId>"
+     git push <remote> main
+   Xem danh sach remote:  git remote -v
+
+6) LOI HAY GAP NHAT: "web A hien noi dung web B"
+   Nguyen nhan: nhieu repo/hosting dung CHUNG lich su source nay, nen dung
+   chung 1 file cau hinh (vercel.json, .gitlab-ci.yml). File do ghi cung
+   site nao thi tat ca deu build ra site do.
+   Cach xu ly: xem phan 3 (Vercel) va phan 4 (GitLab) ben duoi.
+
+7) Neu sua file truc tiep tren web GitHub/GitLab, truoc lan push sau phai
+   keo ve may:   git pull <remote> main
+   neu khong push se bi tu choi (rejected).
+
+8) Sau khi deploy xong ma web van hien ban cu: bam Ctrl+F5.
+
+9) Tai khoan:
+   - GitHub: wwwgo5vn-cyber  (email www.go5.vn@gmail.com)
+   - Vercel: team/account doahoanhanftu2-2516
+     (dang nhap nham tai khoan khac se bao 404 / khong thay project)
+   - Cloudflare account id: b979e12cd94c5af016c526f0419db452
+   - GitLab: capdiensaigon1 (goodfeel), goodfeel/capdiensaigon (onemorestep)
+   - Firebase: dang nhap bang www.go5.vn@gmail.com
+
+
+PHAN 1. BANG TONG HOP
+--------------------------------------------------------------------------
+ Site id        | Domain                  | Hosting           | Cach deploy
+ ---------------+-------------------------+-------------------+-------------------------
+ calmlife       | calmlife.info.vn        | GitHub Pages      | push origin main (tu build)
+ sweetchoice    | sweetchoice.info.vn     | GitHub Pages      | build roi copy sang repo rieng
+ goodfeel       | goodfeel.info.vn        | GitLab Pages      | push gitlab main
+ onemorestep    | onemorestep.info.vn     | GitLab Pages      | push gitlab-onemorestep main
+ lovesomething  | lovesomething.info.vn   | Vercel            | push lovesomething main
+ thewayofspirit | thewayofspirit.info.vn  | Vercel            | push thewayofspirit main
+ 9signal        | 9signal.info.vn         | Vercel            | build roi push repo 9signal
+ 9seed          | 9seed.info.vn           | Cloudflare Worker | GitHub Actions + Wrangler
+ gooncloud      | gooncloud.info.vn       | Firebase Hosting  | npx firebase-tools deploy
+ intimatefriend | intimatefriend.info.vn  | Render            | push origin main / Manual Deploy
+ naturespirit   | naturespirit.info.vn    | Surge.sh          | npx surge
+ befine         | (xem sites.json)        | (chua ghi nhan)   | (dien them)
+ ...            | ...                     | ...               | ...
+ (Cac web con lai chua deploy trong cuoc tro chuyen nay. Mo sites.json
+  de lay du danh sach, roi dien them theo mau o PHAN 8.)
+
+
+PHAN 2. GITHUB PAGES
+--------------------------------------------------------------------------
+[calmlife.info.vn]
+ - Khong co repo rieng. Deploy bang workflow trong chinh source:
+   .github\workflows\deploy-calmlife.yml
+   (build "npm run build -- calmlife", lay dist/calmlife, CNAME calmlife.info.vn)
+ - Cach lam:
+     cd /d D:\go5\source-ve-tinh
+     git add .
+     git commit -m "Update calmlife"
+     git push origin main
+ - Kiem tra: GitHub > source-ve-tinh > tab Actions > job "Deploy CalmLife"
+   chuyen xanh la xong.
+
+[sweetchoice.info.vn]
+ - Repo wwwgo5vn-cyber/sweetchoice chi chua HTML DA BUILD + file CNAME,
+   khong phai source Astro.
+ - Lan dau: clone repo ve D:\go5\sweetchoice-pages
+     cd /d D:\go5
+     git clone https://github.com/wwwgo5vn-cyber/sweetchoice.git sweetchoice-pages
+     cd sweetchoice-pages
+     git config user.email "www.go5.vn@gmail.com"
+     git config user.name "wwwgo5vn-cyber"
+ - Moi lan cap nhat:
+     cd /d D:\go5\source-ve-tinh
+     npm run build -- sweetchoice
+     xcopy /E /Y /I dist\sweetchoice D:\go5\sweetchoice-pages
+     cd /d D:\go5\sweetchoice-pages
+     git add .
+     git commit -m "Update sweetchoice"
+     git push origin main
+ - Giu lai file CNAME (noi dung: sweetchoice.info.vn) trong repo.
+ - Kiem tra: tab Actions > "pages build and deployment" xanh.
+
+
+PHAN 3. VERCEL (lovesomething, thewayofspirit, 9signal)
+--------------------------------------------------------------------------
+!!! QUAN TRONG: file vercel.json trong source THANG cai dat tren dashboard.
+    Neu vercel.json ghi "buildCommand"/"outputDirectory" cua site nao thi
+    project Vercel nao cung build ra site do.
+    Da tung xay ra: lovesomething hien 9 Signal, thewayofspirit hien
+    Love Something.
+
+ CACH 1 (khuyen dung, lam 1 lan la het loi):
+   Xoa 2 dong "buildCommand" va "outputDirectory" khoi vercel.json
+   (hoac xoa han vercel.json neu khong co gi khac), push len tat ca remote
+   Vercel. Sau do moi project tu cai trong dashboard:
+   Settings > Build and Deployment:
+     - Framework Preset: Astro
+     - Build Command: node scripts/run-site.mjs build <siteId>   (bat Override)
+     - Output Directory: dist/<siteId>                            (bat Override)
+     - Install Command: npm ci (hoac de trong)
+     - Root Directory: ./
+   (Co the them Environment Variable SITE=<siteId> cho chac.)
+
+ CACH 2 (dang dung tam): sua vercel.json theo dung site roi CHI push len
+   remote cua site do. Vd cho thewayofspirit:
+     "buildCommand": "node scripts/run-site.mjs build thewayofspirit",
+     "outputDirectory": "dist/thewayofspirit"
+     git add vercel.json
+     git commit -m "Build thewayofspirit"
+     git push thewayofspirit main
+   => KHONG push commit nay sang remote lovesomething, va nguoc lai.
+   Cach nay de quen, nen chuyen sang Cach 1.
+
+[lovesomething.info.vn]
+ - Repo: github.com/wwwgo5vn-cyber/lovesomething (cung lich su source)
+ - Remote: lovesomething
+ - Build: node scripts/run-site.mjs build lovesomething
+ - Output: dist/lovesomething
+ - Deploy: git push lovesomething main
+
+[thewayofspirit.info.vn]
+ - Repo: github.com/wwwgo5vn-cyber/thewayofspirit
+ - Remote: thewayofspirit
+ - Build: node scripts/run-site.mjs build thewayofspirit
+ - Output: dist/thewayofspirit
+ - Deploy: git push thewayofspirit main
+ - Luu y: ban cu tung la "vercel deploy" (upload tu CLI). Gio da noi Git,
+   chi deploy qua push.
+
+[9signal.info.vn]
+ - Repo: github.com/wwwgo5vn-cyber/9signal chua HTML DA BUILD (khong phai
+   source Astro).
+ - Cai dat Vercel: Framework "Other", Build Command de trong,
+   Output Directory "."
+ - Moi lan cap nhat:
+     cd /d D:\go5\source-ve-tinh
+     npm run build -- 9signal
+     cd dist\9signal
+     git add .
+     git commit -m "Update 9signal"
+     git push origin main
+   (Neu build lam mat thu muc .git trong dist\9signal thi clone repo 9signal
+    ra thu muc rieng va xcopy giong cach lam sweetchoice.)
+
+ Meo Vercel chung:
+ - Nut "Redeploy" chi build lai COMMIT CU, khong lay code moi. Muon lay code
+   moi thi push. Neu vua noi Git ma chua co deploy moi, tao commit rong:
+     git commit --allow-empty -m "Trigger Vercel deploy"
+     git push <remote> main
+ - Xem tab Deployments: cot Source phai la commit moi nhat; mo log build
+   tim dong [astro] site=<siteId>.
+ - Loi npm ci exit 1 / 254: package-lock.json bi lech ten. Sua:
+     del package-lock.json
+     npm install
+     git add package-lock.json
+     git commit -m "Fix lockfile"
+     git push <remote> main
+
+
+PHAN 4. GITLAB PAGES (goodfeel, onemorestep)
+--------------------------------------------------------------------------
+ Hai repo GitLab dung CHUNG file .gitlab-ci.yml. Da sua file nay dung bien
+ $SITE (job build-site chay "npm run build -- $SITE", job pages copy
+ dist/$SITE vao public va ghi CNAME $SITE.info.vn).
+
+ Cach dung dung:
+  - Trong file .gitlab-ci.yml KHONG ghi cung "SITE: goodfeel".
+  - Moi project tu dat bien: Settings > CI/CD > Variables > Add variable
+      goodfeel project:    Key SITE, Value goodfeel     (bo tick Protected)
+      onemorestep project: Key SITE, Value onemorestep  (bo tick Protected)
+  !!! Hien tai file tren GitLab goodfeel dang ghi cung "SITE: goodfeel" trong
+      phan variables. Neu push file nay sang onemorestep thi onemorestep se
+      ra goodfeel. Truoc khi push sang onemorestep: xoa dong SITE trong file
+      va dat bien SITE trong Settings cua ca 2 project.
+
+[goodfeel.info.vn]
+ - Project: gitlab.com/capdiensaigon1/goodfeel
+ - Remote: gitlab
+ - Deploy:
+     git pull gitlab main      (vi da sua file tren web GitLab)
+     git push gitlab main
+ - Kiem tra: Build > Pipelines, 2 job build-site va pages xanh; log
+   build-site co [astro] site=goodfeel.
+
+[onemorestep.info.vn]
+ - Project: gitlab.com/goodfeel/capdiensaigon/onemorestep
+ - Remote: gitlab-onemorestep
+ - Deploy: git push gitlab-onemorestep main
+ - Kiem tra: gitlab.com/goodfeel/capdiensaigon/onemorestep/-/pipelines
+ - Domain: Deploy > Pages > Domains; DNS apex A 35.185.44.232 (AAAA
+   2600:1901:0:7b8a::), TXT _gitlab-pages-verification-code lay tu Pages UI.
+
+
+PHAN 5. CLOUDFLARE (9seed)
+--------------------------------------------------------------------------
+[9seed.info.vn]
+ - Dang chay tren Cloudflare WORKER "throbbing-rain-33be" (khong phai Pages).
+ - Pages project "truereason" la Direct Upload, KHONG noi Git duoc ve sau.
+ - Quick Edit tren dashboard chi sua code Worker, khong up thu muc web.
+ - Deploy tu dong: GitHub Actions + Wrangler, file
+   .github\workflows\deploy.yml (dung cloudflare/wrangler-action),
+   can secret CLOUDFLARE_API_TOKEN trong GitHub > Settings > Secrets and
+   variables > Actions.
+ - Push len main la Actions tu build va deploy Worker.
+ - Neu muon dung Pages co Git: tao Pages project MOI, chon Connect to Git.
+
+
+PHAN 6. FIREBASE (gooncloud)
+--------------------------------------------------------------------------
+[gooncloud.info.vn]  (CHUA deploy xong lan nao trong cuoc tro chuyen nay)
+ - Project/site: gooncloud-go5 (domain da gan san)
+ - firebase.json can co:
+     "hosting": { "site": "gooncloud-go5", "public": "dist/gooncloud" }
+ - Cach lam:
+     cd /d D:\go5\source-ve-tinh
+     npm run build -- gooncloud
+     npx firebase-tools login
+       (tra loi y khi duoc hoi, dang nhap www.go5.vn@gmail.com tren trinh
+        duyet; dung go y khi prompt da dong)
+     npx firebase-tools deploy --only hosting --project gooncloud-go5
+
+
+PHAN 7. RENDER VA SURGE
+--------------------------------------------------------------------------
+[intimatefriend.info.vn]  (Render)
+ - Service: intimatefriend, noi repo source-ve-tinh nhanh main
+ - URL: https://intimatefriend.onrender.com
+ - Deploy: git push origin main (neu bat Auto-Deploy trong Settings),
+   hoac vao service > Manual Deploy > Deploy latest commit.
+ - Domain: Settings > Custom Domains.
+
+[naturespirit.info.vn]  (Surge.sh)
+ - Moi lan cap nhat:
+     cd /d D:\go5\source-ve-tinh
+     npm run build -- naturespirit
+     npx surge dist/naturespirit naturespirit.info.vn
+ - DNS: CNAME naturespirit -> na-west1.surge.sh, Cloudflare tat proxy
+   (dam may xam).
+
+
+PHAN 8. MAU DIEN CHO CAC WEB CON LAI
+--------------------------------------------------------------------------
+ Site id    :
+ Domain     :
+ Hosting    :
+ Repo/remote:
+ Build      : npm run build -- <siteId>
+ Output     : dist\<siteId>
+ Deploy     :
+ Kiem tra   : log co [astro] site=<siteId>
+
+
+PHAN 9. CHECKLIST KHI WEB HIEN SAI NOI DUNG
+--------------------------------------------------------------------------
+ [ ] Log build co dong [astro] site=<dung site id> chua?
+ [ ] Vercel: vercel.json co dang ghi buildCommand cua site khac khong?
+ [ ] GitLab: .gitlab-ci.yml co ghi cung SITE / ten site khac khong?
+       Bien SITE trong Settings > CI/CD da dung chua?
+ [ ] Deployment dang chay dung commit moi nhat chua (khong phai Redeploy
+     commit cu)?
+ [ ] Dang dang nhap dung tai khoan (Vercel doahoanhanftu2-2516)?
+ [ ] Da Ctrl+F5 chua?
+==========================================================================
