@@ -25,8 +25,6 @@ npx surge dist/naturespirit naturespirit.info.vn
 
 
 cd /d D:\go5\source-ve-tinh
-npm ci
-npm run build -- gooncloud
 npx firebase-tools login
 npx firebase-tools deploy --only hosting --project gooncloud-go5
 
@@ -72,6 +70,12 @@ git add .
 git commit -m "Update sweetchoice"
 git push origin main
 
+
+cd /d D:\go5\source-ve-tinh
+git pull origin main
+git add src\content\posts\intimatefriend assets\intimatefriend
+git commit -m "Update intimatefriend"
+git push origin main
 
 cd /d D:\go5\source-ve-tinh
 git pull gitlab main
