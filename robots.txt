@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /page/
-
-Sitemap: https://lovesomething.info.vn/sitemap-index.xml
