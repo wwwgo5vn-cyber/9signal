@@ -1,0 +1,260 @@
+---
+title: "Cách cho trẻ sơ sinh bú bình Pigeon đúng cách: chọn núm, pha sữa, tư thế bú và vỗ ợ hơi"
+date: "2026-10-12"
+tags: ["cach-cho-tre-so-sinh-bu-binh-pigeon", "binh-sua-pigeon-so-sinh", "binh-sua-pigeon", "me-va-be"]
+excerpt: "Cách cho trẻ sơ sinh bú bình Pigeon đúng: chọn bình 160ml kèm núm SS từ 0 tháng, tiệt trùng bình, pha sữa đúng hướng dẫn, bế bé hơi nghiêng đầu cao, giữ bình nghiêng để sữa luôn đầy núm, đặt van AVS hướng lên mũi bé, cho bú chậm theo nhịp và vỗ ợ hơi. Bài viết hướng dẫn từng bước và các dấu hiệu cần đi khám."
+cover: "/images/cach-cho-tre-so-sinh-bu-binh-pigeon-1.jpg"
+draft: false
+---
+
+
+Cách cho trẻ sơ sinh bú bình Pigeon là điều nhiều bố mẹ mới cần học trong những ngày đầu đưa bé về nhà. Bình Pigeon quen thuộc, dễ mua, nhưng cho bé sơ sinh bú bình không chỉ là đổ sữa và đưa vào miệng. Chọn sai núm, giữ bình sai góc hay cho bú quá nhanh đều có thể khiến bé sặc, đầy hơi, quấy khóc.
+
+Bài viết này hướng dẫn từng bước: chọn bình và núm Pigeon cho trẻ sơ sinh, chuẩn bị bình, pha sữa an toàn, tư thế bú, cách đặt van thông khí, nhịp bú, vỗ ợ hơi và các dấu hiệu cần đi khám. Thông tin sản phẩm lấy từ cửa hàng chính thức của Pigeon Việt Nam.
+
+![Mẹ bế trẻ sơ sinh hơi nghiêng và cho bé bú bình sữa Pigeon](/images/cach-cho-tre-so-sinh-bu-binh-pigeon-1.jpg)
+
+## 1. Chọn bình sữa Pigeon cho trẻ sơ sinh
+
+Với dòng **Pigeon PPSU SofTouch** cổ rộng, cửa hàng chính thức của Pigeon ghi:
+
+- **Bình 160ml** đi kèm **núm size SS**, cho bé **từ 0 tháng tuổi**.
+- **Bình 240ml** đi kèm **núm size M**, cho bé **từ 3 tháng tuổi**.
+
+Vì vậy với trẻ sơ sinh, **bình 160ml kèm núm SS** là lựa chọn hợp lý. Bình nhỏ nhẹ, dễ cầm, vạch chia rõ để theo dõi lượng sữa bé bú.
+
+Theo thông tin sản phẩm, thân bình PPSU **không chứa BPA**, chịu nhiệt đến **180°C**, tiệt khuẩn được bằng **đun sôi, hấp, dung dịch, tia cực tím**.
+
+## 2. Chọn đúng size núm Pigeon theo tuổi
+
+Núm SofTouch thế hệ III của Pigeon có nhiều size, theo thông tin bán hàng:
+
+- **SS:** từ **0 tháng**, lỗ cắt tròn, sữa chảy đều và chậm. Thiết kế riêng cho trẻ sơ sinh.
+- **S:** từ **1 tháng**, lỗ cắt tròn.
+- **M:** từ **3 tháng**, lỗ cắt chữ Y, sữa chảy khi bé mút.
+- **L:** từ **6 tháng**.
+- **LL:** từ **9 tháng**.
+- **LLL:** từ **15 tháng**.
+
+Pigeon giải thích trẻ sơ sinh **chưa phát triển cơ hàm**, nên núm SS lỗ tròn giúp sữa ra **đều và từ từ**. Size lớn hơn cắt chữ Y để bé tự điều chỉnh dòng sữa khi cơ hàm đã khỏe.
+
+**Tuổi trên vỉ chỉ để tham khảo.** Nếu bé bú SS mà rất vất vả, mút lâu không được, hoặc bú S mà hay sặc, hãy điều chỉnh size và hỏi ý kiến bác sĩ nhi khoa.
+
+## 3. Hiểu về van thông khí AVS trên núm Pigeon
+
+Núm ty Pigeon SofTouch có **van thông khí AVS**. Theo Pigeon, hệ thống van này giúp **giảm lượng không khí bé nuốt vào**, hạn chế đau bụng, đầy hơi.
+
+Núm thế hệ III còn có **đường khớp ngậm** giúp bé xác định vị trí ngậm đúng, theo giới thiệu của hãng, hỗ trợ bé chuyển đổi giữa bú mẹ và bú bình dễ hơn.
+
+**Van đã tích hợp sẵn trên núm**, không phải phụ kiện rời. Bạn chỉ cần lắp núm đúng và đặt van đúng hướng khi cho bú.
+
+## 4. Chuẩn bị bình trước khi pha sữa
+
+1. **Rửa tay** sạch bằng xà phòng.
+2. **Rửa bình, núm, vòng vặn** bằng nước rửa bình chuyên dụng và cọ, tráng thật sạch.
+3. **Tiệt trùng** bằng nước sôi, máy hấp hoặc máy tiệt trùng theo hướng dẫn. Trẻ sơ sinh có hệ miễn dịch còn non, nên tiệt trùng kỹ.
+4. **Để khô** trên giá sạch, đậy nắp.
+5. **Kiểm tra núm**: không rách, không thủng, không biến dạng.
+
+## 5. Pha sữa an toàn cho trẻ sơ sinh
+
+**Nếu cho bé bú sữa mẹ vắt:**
+- Rã đông hoặc hâm ấm bằng cách **ngâm bình vào nước ấm**, không đun trực tiếp, không dùng lò vi sóng vì dễ nóng không đều.
+- Lắc nhẹ để sữa trộn đều.
+
+**Nếu cho bé bú sữa công thức:**
+- **Làm đúng hướng dẫn trên hộp sữa**: đúng lượng nước, đúng số muỗng gạt ngang. Pha đặc hay loãng đều không tốt cho bé.
+- Dùng **nước đun sôi** theo hướng dẫn của hộp sữa và khuyến cáo y tế. Tổ chức Y tế Thế giới khuyên pha sữa công thức dạng bột với nước **không dưới 70°C**, rồi làm nguội nhanh đến nhiệt độ vừa uống.
+- **Đổ nước trước, cho bột sau**, đậy nắp và lắc hoặc xoay cho tan đều.
+- **Pha mới cho từng cữ.** Sữa bé bú dở không nên giữ lại cho cữ sau.
+
+**Kiểm tra nhiệt độ:** nhỏ vài giọt lên **mặt trong cổ tay**. Sữa nên **ấm vừa**, không nóng.
+
+## 6. Tư thế cho trẻ sơ sinh bú bình
+
+- **Bế bé trong vòng tay**, đầu và lưng được đỡ chắc.
+- Để bé **hơi nghiêng, đầu cao hơn bụng**, không nằm ngửa thẳng.
+- **Đầu và thân bé thẳng hàng**, không ngoẹo cổ.
+- Mẹ ngồi tựa lưng thoải mái, có thể kê gối dưới tay.
+- **Nhìn và trò chuyện với bé** khi bú, giúp bé an tâm và gắn kết.
+
+**Không kê bình** cho bé tự bú, **không cho bé bú khi nằm ngửa** trên giường. Pigeon cũng khuyến cáo **không cho bé bú khi không có người lớn giám sát**.
+
+![Giữ bình Pigeon nghiêng để sữa luôn đầy núm và van AVS hướng lên phía trên](/images/cach-cho-tre-so-sinh-bu-binh-pigeon-2.jpg)
+
+## 7. Các bước cho trẻ sơ sinh bú bình Pigeon
+
+**Bước 1: Kích thích phản xạ bú.** Chạm nhẹ núm vào môi bé, chờ bé **há miệng rộng** rồi mới đưa núm vào.
+
+**Bước 2: Cho bé ngậm đúng.** Môi bé ôm quanh phần chân núm, không chỉ mút đầu núm. Đường khớp ngậm trên núm thế hệ III giúp nhận biết vị trí ngậm.
+
+**Bước 3: Đặt van AVS đúng hướng.** Theo hướng dẫn phổ biến, xoay núm sao cho **van thông khí nằm phía trên**, hướng về **mũi hoặc hàm trên** của bé để không khí vào bình nhịp nhàng.
+
+**Bước 4: Giữ bình nghiêng vừa đủ.** Bình nghiêng sao cho **sữa luôn đầy núm**, tránh bé hút không khí. Không dốc bình thẳng đứng làm sữa chảy quá nhanh.
+
+**Bước 5: Cho bú chậm theo nhịp.** Sau vài ngụm, **hạ nhẹ bình** cho núm vơi bớt sữa để bé nghỉ, rồi nâng lại khi bé muốn bú tiếp. Cách này giúp bé bú gần giống nhịp bú mẹ, đỡ sặc và đỡ bú quá no.
+
+**Bước 6: Vỗ ợ hơi giữa cữ.** Bú được khoảng nửa bình hoặc khi bé ngừng bú, dừng lại vỗ ợ hơi.
+
+**Bước 7: Kết thúc khi bé no.** Bé **nhả núm, quay đầu, ngậm chặt miệng, thả lỏng tay** là dấu hiệu no. **Không ép bé bú hết bình.**
+
+## 8. Dấu hiệu bé đói và bé no
+
+**Bé đói:**
+- Quay đầu tìm vú, chép miệng.
+- Đưa tay lên miệng, mút tay.
+- Cựa quậy, kêu ư ử. **Khóc là dấu hiệu đói muộn.**
+
+**Bé no:**
+- Bú chậm lại, nhả núm.
+- Quay đầu đi, đẩy núm ra.
+- Tay chân thả lỏng, có thể ngủ thiếp.
+
+Cho bé bú theo dấu hiệu giúp bé tự điều chỉnh lượng sữa, hạn chế bú quá no, nôn trớ. **Lượng sữa và số cữ mỗi ngày** khác nhau theo cân nặng và tình trạng của bé, hãy hỏi bác sĩ nhi khoa.
+
+## 9. Cách vỗ ợ hơi cho trẻ sơ sinh
+
+**Cách 1: Bế vác vai.** Bế bé thẳng, cằm tựa lên vai mẹ, một tay đỡ mông, tay kia vỗ nhẹ hoặc xoa lưng.
+
+**Cách 2: Ngồi trên đùi.** Cho bé ngồi trên đùi, một tay đỡ ngực và cằm bé, tay kia vỗ nhẹ lưng.
+
+**Cách 3: Nằm sấp trên đùi.** Đặt bé nằm sấp ngang đùi, đầu cao hơn ngực, vỗ nhẹ lưng.
+
+Vỗ **nhẹ nhàng**, kiên nhẫn vài phút. Lót khăn trên vai phòng bé ọc sữa. Sau khi bú, **giữ bé tư thế thẳng** thêm một lúc trước khi đặt nằm.
+
+## 10. Kết hợp bú mẹ và bú bình
+
+Nhiều mẹ vừa cho con bú mẹ vừa cho bú bình. Một vài lưu ý:
+
+- **Sữa mẹ là nguồn dinh dưỡng tốt nhất** cho trẻ sơ sinh. Nếu có thể, hãy duy trì bú mẹ và hỏi chuyên gia tư vấn sữa mẹ khi gặp khó khăn.
+- Chọn **núm SS chảy chậm** và **cho bú theo nhịp** để bé không quen dòng sữa nhanh rồi chê ti mẹ.
+- Để **người khác cho bé bú bình** thời gian đầu nếu bé cứ tìm ti mẹ khi mẹ bế.
+- Giữ **tư thế, ánh mắt, giọng nói** gần gũi như khi bú mẹ.
+
+## 11. Vệ sinh bình Pigeon sau khi bú
+
+- **Đổ bỏ sữa thừa** ngay sau cữ bú.
+- Tháo rời bình, núm, vòng vặn, **tráng nước** ngay để sữa không bám.
+- Rửa bằng **nước rửa bình** và **cọ** chuyên dụng, chú ý ren cổ bình và lòng núm.
+- **Tráng sạch** dưới vòi nước.
+- **Tiệt trùng** và **để khô** trước cữ tiếp theo.
+
+## 12. Khi nào thay núm và bình
+
+Theo cửa hàng chính thức của Pigeon:
+
+- **Thay núm ty sau khoảng 1 đến 2 tháng** sử dụng.
+- **Bỏ ngay núm** bị **rách, thủng hoặc hư hỏng** do bé cắn.
+
+Trang Pigeon Việt Nam cũng khuyên dùng **luân phiên từ 2 núm trở lên**. Với thân bình, thay khi bình **nứt, trầy xước nhiều, đục màu, có mùi lạ** dù đã vệ sinh.
+
+![Cọ rửa bình sữa và núm ty Pigeon sau cữ bú bằng cọ chuyên dụng](/images/cach-cho-tre-so-sinh-bu-binh-pigeon-3.jpg)
+
+## 13. Những lỗi hay gặp khi cho trẻ sơ sinh bú bình
+
+- **Dùng núm size lớn** cho bé sơ sinh, sữa chảy quá nhanh gây sặc.
+- **Cho bé nằm ngửa thẳng** khi bú.
+- **Dốc bình thẳng đứng**, sữa ồ ạt.
+- **Để bình nằm ngang**, núm không đầy sữa, bé nuốt nhiều khí.
+- **Ép bé bú hết bình** dù bé đã no.
+- **Bỏ qua vỗ ợ hơi.**
+- **Pha sữa sai tỷ lệ** hoặc giữ sữa thừa cho cữ sau.
+- **Kê bình cho bé tự bú**, để bé ngủ với bình.
+
+## 14. Khi nào cần đưa bé đi khám
+
+Hãy đưa bé đi khám bác sĩ nhi khoa nếu bé:
+
+- **Sặc nhiều**, ho sặc sụa, **tím tái** khi bú.
+- **Nôn vọt**, nôn ra dịch xanh hoặc có máu.
+- **Bú kém**, bỏ bú, **ít tã ướt** hơn bình thường.
+- **Chậm tăng cân**, lừ đừ, khó đánh thức.
+- **Sốt**, thở nhanh, thở khò khè.
+- **Bụng chướng căng**, khóc thét không dỗ được.
+
+Với trẻ sơ sinh, đừng chờ đợi lâu khi thấy bất thường.
+
+## Tổng kết
+
+Cách cho trẻ sơ sinh bú bình Pigeon đúng bắt đầu từ việc chọn **bình 160ml kèm núm SS** dành cho bé từ 0 tháng, tiệt trùng kỹ và pha sữa đúng hướng dẫn. Khi cho bú, bế bé hơi nghiêng đầu cao, cho bé há miệng ngậm sâu, đặt van AVS hướng lên trên, giữ bình nghiêng để sữa luôn đầy núm và cho bú chậm theo nhịp. Vỗ ợ hơi giữa và sau cữ, dừng khi bé có dấu hiệu no, vệ sinh bình ngay sau khi bú và thay núm định kỳ. Nếu bé sặc nhiều, nôn trớ, bú kém hay chậm tăng cân, hãy đưa bé đi khám bác sĩ nhi khoa.
+
+
+<div class="faq-section">
+<h2 class="faq-section__title">Câu hỏi thường gặp</h2>
+<div class="faq-item">
+<h3 class="faq-item__q">Trẻ sơ sinh dùng núm Pigeon size nào?</h3>
+<p class="faq-item__a">Với núm SofTouch</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Đặt van AVS của núm Pigeon hướng nào khi cho bé bú?</h3>
+<p class="faq-item__a">Theo hướng dẫn phổ biến</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Cho trẻ sơ sinh bú bình bao lâu một cữ?</h3>
+<p class="faq-item__a">Mỗi bé mỗi khác. Hãy cho bé bú chậm theo nhịp</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Có nên để trẻ sơ sinh tự bú bình không?</h3>
+<p class="faq-item__a">Không. Pigeon khuyến cáo không cho bé bú khi không có người lớn giám sát. Không kê bình cho bé tự bú hay để bé ngủ quên với bình trong miệng.</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Bao lâu thay núm ty Pigeon một lần?</h3>
+<p class="faq-item__a">Trang bán hàng chính thức của Pigeon ghi thay núm ty sau khoảng 1 đến 2 tháng sử dụng</p>
+</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Trẻ sơ sinh dùng núm Pigeon size nào?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Với núm SofTouch"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Đặt van AVS của núm Pigeon hướng nào khi cho bé bú?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Theo hướng dẫn phổ biến"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cho trẻ sơ sinh bú bình bao lâu một cữ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mỗi bé mỗi khác. Hãy cho bé bú chậm theo nhịp"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Có nên để trẻ sơ sinh tự bú bình không?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Không. Pigeon khuyến cáo không cho bé bú khi không có người lớn giám sát. Không kê bình cho bé tự bú hay để bé ngủ quên với bình trong miệng."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bao lâu thay núm ty Pigeon một lần?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trang bán hàng chính thức của Pigeon ghi thay núm ty sau khoảng 1 đến 2 tháng sử dụng"
+      }
+    }
+  ]
+}
+</script>
+
+<div class="xem-them-box">
+<p class="xem-them-box__title">🛒 Xem hàng tại Go5</p>
+<div class="xem-them-box__links">
+<div class="xem-them-box__item">• <a href="https://care.go5.vn/binh-sua-pigeon-so-sinh/" target="_blank" rel="noopener noreferrer" class="xem-them-box__link">Xem bình sữa Pigeon sơ sinh tại Go5</a></div>
+</div>
+</div>
