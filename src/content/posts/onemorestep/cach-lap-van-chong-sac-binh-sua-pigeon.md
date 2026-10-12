@@ -1,0 +1,248 @@
+---
+title: "Cách lắp van chống sặc bình sữa Pigeon đúng chuẩn: hướng dẫn từng bước cho bình cổ rộng và cổ hẹp"
+date: "2026-10-12"
+tags: ["cach-lap-van-chong-sac-binh-sua-pigeon", "van-chong-sac-pigeon", "binh-sua-pigeon", "me-va-be"]
+excerpt: "Cách lắp van chống sặc bình sữa Pigeon thực chất là lắp đúng núm ty, vì van thông khí đã tích hợp sẵn trên núm. Bình cổ rộng lắp núm từ trên nắp vặn xuống rồi bóp nhẹ van để mở, bình cổ hẹp lắp núm từ dưới lên. Bài viết hướng dẫn từng bước, cách đặt van khi cho bé bú và các lỗi hay gặp."
+cover: "/images/cach-lap-van-chong-sac-binh-sua-pigeon-1.jpg"
+draft: false
+---
+
+
+Cách lắp van chống sặc bình sữa Pigeon là điều khiến nhiều mẹ bối rối khi mới mở hộp bình. Có mẹ tìm mãi không thấy chiếc van rời nào để lắp. Có mẹ lắp núm xong nhưng bình vẫn chảy chậm, bé mút mãi không ra sữa, hoặc bé nuốt nhiều hơi, đầy bụng.
+
+Thật ra, với bình Pigeon, **van chống sặc đã được tích hợp sẵn trên núm ty**. Lắp núm đúng cách, mở van đúng và đặt van đúng hướng khi cho bú là bạn đã dùng van chống sặc đúng chuẩn. Bài viết này hướng dẫn chi tiết từng bước cho cả bình cổ rộng và cổ hẹp, cùng các lỗi hay gặp và cách khắc phục.
+
+![Núm ty Pigeon SofTouch cổ rộng với van thông khí nhỏ ở chân núm được khoanh tròn](/images/cach-lap-van-chong-sac-binh-sua-pigeon-1.jpg)
+
+## 1. Van chống sặc bình sữa Pigeon là gì
+
+Nhiều mẹ gọi là "van chống sặc", nhưng tên chính xác hơn là **van thông khí**. Pigeon gọi hệ thống này là **AVS** (Air Ventilation System). Theo mô tả trên trang chính thức Pigeon Việt Nam, van thông khí AVS giúp **giảm lượng không khí bé nuốt vào khi bú bình**, từ đó hạn chế đau bụng, đầy hơi.
+
+Van hoạt động đơn giản thế này:
+
+- Khi bé mút, sữa trong bình chảy ra, tạo khoảng trống bên trong.
+- Nếu không có van, bình sẽ bị hút chân không, núm ty bẹp lại, bé phải mút mạnh hơn và hay nhả ra để thở, dễ nuốt hơi hoặc bị sặc khi sữa ra đột ngột.
+- Có van, không khí đi vào bình qua van, giữ áp suất ổn định, sữa chảy đều theo nhịp bú của bé.
+
+Van nằm ngay **trên chân núm ty**, thường là một điểm hoặc rãnh nhỏ ở mép núm. Vì vậy, bạn **không cần mua hay lắp thêm van rời** cho bình Pigeon chính hãng.
+
+## 2. Phân biệt núm ty cổ rộng và cổ hẹp
+
+Bình Pigeon có hai kiểu cổ, mỗi kiểu dùng một loại núm riêng:
+
+- **Cổ rộng:** miệng bình to, dùng núm ty SofTouch cổ rộng có chân núm bè rộng.
+- **Cổ hẹp:** miệng bình nhỏ, dùng núm ty cổ hẹp có chân nhỏ.
+
+Núm cổ rộng **không dùng** cho bình cổ hẹp và ngược lại. Cách lắp núm của hai loại cũng khác nhau. Trước khi lắp, hãy chắc chắn bạn đang cầm đúng núm cho đúng bình.
+
+Núm ty Pigeon còn chia nhiều size. Theo Bibo Mart, núm ty Pigeon có **6 size từ SS đến 3L**, mỗi size có tốc độ chảy khác nhau. Chọn size phù hợp với tuổi và sức bú của bé cũng quan trọng không kém việc lắp đúng van.
+
+## 3. Chuẩn bị trước khi lắp
+
+- **Rửa tay sạch** bằng xà phòng.
+- **Rửa sạch và tiệt trùng** núm ty, nắp vặn, nắp đậy và thân bình trước lần dùng đầu tiên.
+- **Để khô** các bộ phận trên giá phơi sạch.
+- **Kiểm tra núm ty:** không rách, không thủng, không dính, van không bị bịt kín bởi cặn sữa.
+
+## 4. Cách lắp van chống sặc bình Pigeon cổ rộng
+
+Với bình cổ rộng, núm ty được lắp **từ phía trên nắp vặn xuống**. Theo hướng dẫn trên trang Pigeon và các nhà bán lớn, làm như sau:
+
+**Bước 1: Bóp và giữ vách núm ty.**
+Dùng ngón tay bóp nhẹ phần thân núm để núm thu nhỏ lại, dễ luồn qua lỗ nắp vặn.
+
+**Bước 2: Lắp núm từ trên nắp vặn xuống.**
+Đặt một cạnh chân núm vào mép lỗ nắp vặn trước, sau đó dùng tay đẩy dần các phần mép còn lại vào phía trong nắp.
+
+**Bước 3: Nhấn nhẹ cho núm khít với nắp vặn.**
+Nhìn từ dưới lên, chân núm phải nằm phẳng, ôm đều quanh nắp vặn, không bị gập hay lệch một bên.
+
+**Bước 4: Bóp nhẹ van để mở van.**
+Nhìn vào bên trong núm, dùng ngón tay **ấn nhẹ vào vị trí van thông khí** để chắc chắn van đã mở. Núm mới đôi khi có van hơi dính, bóp nhẹ giúp van hoạt động ngay từ cữ đầu.
+
+**Bước 5: Vặn nắp vặn vào bình.**
+Rót sữa vào bình, đặt nắp vặn có núm lên miệng bình và vặn theo chiều kim đồng hồ đến khi **vừa chặt**. Không vặn quá mạnh.
+
+**Bước 6: Đậy nắp đậy.**
+Đậy nắp lên trên núm để giữ núm sạch cho đến khi cho bé bú.
+
+![Mẹ bóp vách núm ty Pigeon và luồn từ trên xuống vào nắp vặn bình cổ rộng](/images/cach-lap-van-chong-sac-binh-sua-pigeon-2.jpg)
+
+## 5. Cách lắp núm ty bình Pigeon cổ hẹp
+
+Với bình cổ hẹp, thứ tự ngược lại: núm ty lắp **từ phía dưới nắp vặn lên trên**.
+
+**Bước 1:** Luồn núm ty từ phía dưới nắp vặn, đẩy đầu núm lên cho đến khi chân núm nằm khít trong nắp.
+
+**Bước 2:** Rót sữa vào bình, đặt nắp vặn có núm lên cổ bình.
+
+**Bước 3:** Vặn nắp vặn chắc chắn, vừa tay.
+
+**Bước 4:** Đậy nắp đậy để giữ núm sạch.
+
+Nếu núm ty cổ hẹp của bạn có van thông khí, hãy kiểm tra van không bị gập hay bị nắp vặn đè lên sau khi lắp.
+
+## 6. Đặt van đúng hướng khi cho bé bú
+
+Lắp đúng mới là một nửa. Nửa còn lại là **cầm bình đúng hướng** để van phát huy tác dụng.
+
+- **Van hướng lên trên:** khi đưa núm vào miệng bé, xoay bình sao cho van nằm ở phía trên, về phía mũi hoặc hàm trên của bé. Như vậy không khí đi vào bình qua phần không có sữa, sữa chảy đều.
+- **Giữ bình nghiêng sao cho sữa luôn đầy núm:** núm không đầy sữa thì bé sẽ mút cả không khí.
+- **Tư thế bé hơi nghiêng, đầu cao hơn thân:** nhiều hướng dẫn của nhà bán gợi ý bé nằm nghiêng đầu cao khoảng 20 đến 30 độ. Không cho bé bú bình khi nằm thẳng hoàn toàn.
+- **Không để bé tự bú bình một mình** hoặc ngậm bình khi ngủ.
+
+Khi bú đúng, bạn sẽ thấy các bọt khí nhỏ nổi lên trong bình đều đặn theo nhịp mút của bé. Đó là dấu hiệu van đang hoạt động tốt.
+
+![Mẹ cho bé bú bình Pigeon với van thông khí hướng lên phía mũi bé, bình nghiêng sữa đầy núm](/images/cach-lap-van-chong-sac-binh-sua-pigeon-3.jpg)
+
+## 7. Các lỗi hay gặp và cách khắc phục
+
+**Bé mút mạnh mà sữa ra chậm, núm bị bẹp**
+- Van chưa mở hoặc bị bít bởi cặn sữa. Bóp nhẹ lại van, rửa sạch quanh van.
+- Nắp vặn quá chặt khiến van bị ép. Nới nhẹ nắp vặn.
+- Van đang hướng xuống dưới, bị ngập trong sữa. Xoay bình cho van hướng lên.
+
+**Sữa rỉ ra ở mép núm hoặc quanh nắp vặn**
+- Chân núm bị lệch, gập mép. Tháo ra và lắp lại cho phẳng.
+- Nắp vặn quá lỏng. Vặn thêm cho vừa chặt.
+- Dùng núm không đúng loại cổ bình.
+- Sữa còn nóng, lắc mạnh làm tăng áp suất. Để sữa nguội bớt trước khi lắc.
+
+**Sữa rỉ ra từ chính lỗ van**
+- Van bị bám cặn sữa nên không khép kín. Rửa sạch, có thể tráng van dưới nước ấm và bóp nhẹ.
+- Núm đã cũ, van mất đàn hồi. Thay núm mới.
+
+**Bé vẫn bị sặc dù có van**
+- Size núm quá lớn so với tuổi, sữa chảy quá nhanh. Đổi về size nhỏ hơn.
+- Bình nghiêng quá dốc, sữa dồn ra nhiều.
+- Bé bú quá đói, quá vội. Cho bé nghỉ, vỗ ợ hơi giữa cữ.
+
+Nếu bé thường xuyên sặc, ho, tím tái, nôn trớ nhiều hoặc chậm tăng cân, hãy đưa bé đi khám bác sĩ nhi khoa, không chỉ đổi núm hay đổi bình.
+
+## 8. Vệ sinh van chống sặc đúng cách
+
+Van là chi tiết nhỏ nên dễ bị bỏ sót khi rửa:
+
+- **Tháo núm ra khỏi nắp vặn** sau mỗi cữ bú.
+- **Tráng nước ngay** để sữa không khô lại quanh van.
+- **Rửa bằng nước rửa bình sữa** và cọ núm mềm, chú ý vùng quanh van.
+- **Bóp nhẹ van dưới vòi nước** để nước đẩy cặn ra ngoài.
+- **Không chọc kim, tăm hay vật nhọn** vào van, vì có thể làm hỏng van.
+- **Xả sạch** và **để khô hoàn toàn** trước khi lắp lại.
+
+Sau khi rửa, tiệt trùng núm theo hướng dẫn của Pigeon bằng đun sôi, hấp, dung dịch tiệt trùng chuyên dụng hoặc máy tiệt trùng.
+
+## 9. Khi nào nên thay núm ty có van
+
+Trên trang Pigeon Việt Nam, hãng khuyên nên **dùng luân phiên từ 2 núm ty trở lên trong khoảng 2 tháng rồi thay mới**. Ngoài ra, thay núm ngay khi thấy:
+
+- Núm **rách, thủng, nứt**, nhất là ở vùng van.
+- Núm **dính, mềm nhão, phồng** hoặc **đổi màu**.
+- Van **không còn đàn hồi**, sữa rỉ ra từ van dù đã rửa sạch.
+- Bé đã lớn, cần **lên size** núm phù hợp.
+
+## 10. Có nên mua thêm van chống sặc rời không
+
+Trên mạng có bán nhiều loại "van chống sặc" rời, quảng cáo lắp được cho nhiều hãng bình. Với bình Pigeon chính hãng, van thông khí đã có sẵn trên núm, nên thường **không cần** mua thêm van rời.
+
+Nếu vẫn muốn mua, hãy lưu ý:
+
+- Đọc kỹ sản phẩm ghi **dùng cho đúng dòng và đúng kiểu cổ bình** Pigeon của bạn.
+- Lắp thêm chi tiết lạ có thể làm núm không khít, gây rỉ sữa hoặc làm sữa chảy sai tốc độ.
+- Ưu tiên phụ kiện có nguồn gốc rõ ràng, thông tin chất liệu và nhiệt độ chịu được.
+- Nếu bé đang bú tốt với núm Pigeon, không cần thay đổi thêm.
+
+Khi đang cân nhắc vì bé hay sặc, hãy kiểm tra size núm và tư thế bú trước, vì đây là nguyên nhân phổ biến hơn.
+
+## 11. Mẹo nhỏ giúp bé bú bình êm hơn
+
+- **Chuẩn bị 2 núm** để luân phiên, đỡ vội khi rửa.
+- **Đánh dấu size núm** trên hộp đựng để không lắp nhầm.
+- **Lắc sữa nhẹ nhàng** theo vòng tròn thay vì lắc mạnh lên xuống để hạn chế bọt khí.
+- **Vỗ ợ hơi** cho bé giữa và sau cữ bú.
+- **Mua núm chính hãng** có tem nhãn tiếng Việt, đúng loại cổ bình.
+
+## Tổng kết
+
+Cách lắp van chống sặc bình sữa Pigeon rất đơn giản khi bạn hiểu rằng van thông khí đã có sẵn trên núm ty. Với bình cổ rộng, bóp vách núm, lắp từ trên nắp vặn xuống, nhấn cho khít rồi bóp nhẹ van để mở. Với bình cổ hẹp, lắp núm từ dưới nắp vặn lên rồi vặn vào bình. Khi cho bú, để van hướng lên phía mũi bé, giữ sữa đầy núm và cho bé bú ở tư thế đầu cao. Rửa sạch vùng quanh van, thay núm định kỳ và chọn đúng size để bé bú êm, ít nuốt hơi.
+
+
+<div class="faq-section">
+<h2 class="faq-section__title">Câu hỏi thường gặp</h2>
+<div class="faq-item">
+<h3 class="faq-item__q">Van chống sặc bình sữa Pigeon nằm ở đâu?</h3>
+<p class="faq-item__a">Trên bình Pigeon</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Lắp núm ty Pigeon cổ rộng như thế nào?</h3>
+<p class="faq-item__a">Bóp và giữ vách núm ty</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Lắp núm ty Pigeon cổ hẹp như thế nào?</h3>
+<p class="faq-item__a">Với bình cổ hẹp</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">van chống sặc nên hướng về đâu?</h3>
+<p class="faq-item__a">Nên để van hướng lên phía trên</p>
+</div>
+<div class="faq-item">
+<h3 class="faq-item__q">Đã có van mà bé vẫn bị sặc thì phải làm sao?</h3>
+<p class="faq-item__a">Kiểm tra lại size núm có quá lớn so với tuổi và sức bú của bé không</p>
+</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Van chống sặc bình sữa Pigeon nằm ở đâu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trên bình Pigeon"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Lắp núm ty Pigeon cổ rộng như thế nào?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bóp và giữ vách núm ty"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Lắp núm ty Pigeon cổ hẹp như thế nào?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Với bình cổ hẹp"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "van chống sặc nên hướng về đâu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nên để van hướng lên phía trên"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Đã có van mà bé vẫn bị sặc thì phải làm sao?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kiểm tra lại size núm có quá lớn so với tuổi và sức bú của bé không"
+      }
+    }
+  ]
+}
+</script>
+
+<div class="xem-them-box">
+<p class="xem-them-box__title">🛒 Xem hàng tại Go5</p>
+<div class="xem-them-box__links">
+<div class="xem-them-box__item">• <a href="https://care.go5.vn/van-chong-sac-pigeon/" target="_blank" rel="noopener noreferrer" class="xem-them-box__link">Xem van chống sặc Pigeon tại Go5</a></div>
+</div>
+</div>
